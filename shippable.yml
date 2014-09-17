@@ -21,3 +21,5 @@ notifications:
              - exampletwo@org.com
      on_success: always
      on_failure: always
+
+parallelized_test: true
